@@ -1,6 +1,19 @@
-NO CAIGAS EN EL Phishing
+<!DOCTYPE html> 
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Campaña contra el Phishing</title>
+    <style>
+    </style>
+</head>
+<body>
+    <header>
+        <h1> NO CAIGAS EN EL  Phishing </h1>
+
 El phishing es una técnica de engaño utilizada por ciberdelincuentes para obtener información confidencial, como contraseñas, números de tarjetas de crédito o datos personales, haciéndose pasar por una entidad o persona de confianza.
+
 Seguridad en Línea
+
 Quiéne Somos nosotros
 Somos gente que se encarga para hacer que la gente no caiga en estafas.
 
